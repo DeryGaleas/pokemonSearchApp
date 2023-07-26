@@ -1,0 +1,18 @@
+.displayPokemonContainer{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.pokemonCard{
+    margin-top: 20px;
+    text-align: center;
+    border: 4px solid #ACB0BD;
+    border-radius: 8px;
+}
+
+.pokemonCard img{
+    height:200px;
+}
